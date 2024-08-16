@@ -1,0 +1,33 @@
+.main{
+    display: flex;
+    margin-top: 100px;
+    margin-left: 100px;
+    text-align: left;
+}
+.div1{
+    width: 670px;
+}
+.p1{
+    font-size: 45px;
+    font-weight: 500;
+    color:  rgb(20, 20, 97);
+}
+.p2{
+    font-size: 26px;
+
+}
+.btn{
+    height: 45px;
+    width: 145px;
+    border: none;
+    border-radius: 6px;
+    margin-top: 0px;
+    margin-left: 0px;
+    background-color: rgb(54, 54, 202);
+    color: white;
+    font-family: 500;
+    font-size: 17px;
+}
+.img2{
+    height: 470px;
+}
